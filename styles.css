@@ -29,6 +29,7 @@ body {
     display: flex;
     flex: 100%;
     order: 3;
+    padding-top: 6rem;
 }
 
 .text-rating {
@@ -130,7 +131,7 @@ span {
 .review {
     padding-top: 2rem;
     padding-left: 3rem;
-    padding-right: 8rem;
+    padding-right: 4rem;
     color: hsl(300, 24%, 96%);
     font-size: 1.2rem;
     font-family: "League Spartan", "sans-serif";
