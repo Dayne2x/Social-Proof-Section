@@ -29,7 +29,7 @@ body {
     display: flex;
     flex: 100%;
     order: 3;
-    padding-top: 6rem;
+    padding-top: 4rem;
 }
 
 .text-rating {
