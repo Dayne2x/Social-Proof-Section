@@ -37,11 +37,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 
 
 ### What I learned
 
-In this project I used the "transform" property for the first time in order to align elements to specification. I am not completely satisified with the result and will rewrite the code in order to make it resemble the required solution more closely. Also the mobile version is not yet complete.
+In this project I used the "transform" property for the first time in order to align elements to specification as well. I created an additional stylesheet in order for the media queries in order to keep the code more readable.
 
 
 ### Continued development
