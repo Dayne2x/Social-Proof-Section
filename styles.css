@@ -36,7 +36,7 @@ input, button, textarea, select {
     display: grid;
     place-content: center;
     font-family: "League Spartan", "sans-serif";
-    background-image: url(/images/bg-pattern-top-desktop.svg), url(/images/bg-pattern-bottom-desktop.svg);
+    background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
     background-repeat: no-repeat, no-repeat;
     background-position: top left, bottom right;
     padding: 0.63rem;
@@ -96,7 +96,7 @@ input, button, textarea, select {
 }
 
 .star {
-    background: url(/images/icon-star.svg);
+    background: url(images/icon-star.svg);
     height: 1.5rem;
     width: 6rem;
     background-repeat: space;
